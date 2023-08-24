@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455035878532",
+    "project_id": "triple-skein-351417",
+    "storage_bucket": "triple-skein-351417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455035878532:android:08ff981f3f68ed551a96d1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_alura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455035878532-15cn9ah2guu51pbbb8j6dbkm18k5hh6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4UyTd59BacPT7LOqqzWQbDHa6ATSAMKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455035878532-15cn9ah2guu51pbbb8j6dbkm18k5hh6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
